@@ -6,9 +6,11 @@ Free online PDF tools — merge, split, compress, convert, OCR and more — plus
 
 ---
 
-## Edit a PDF like a document, not a picture
+## What Doclium does differently
 
-Most "PDF editors" hand you a form and ask which words to find. Doclium opens the page and lets you work on it directly.
+### ✏️ Edit a PDF like a document, not a picture
+
+Most "PDF editors" hand you a form and ask which words to find.
 
 - **Double-click any line to edit the text in place** — and it keeps the document's own font, so the line you changed still matches the rest of the page
 - **Select any passage** for a menu of everything you can do to it: copy, edit, highlight, underline, strike through, **bold / italic / colour / font / size**, redact, or turn it into a link
@@ -16,7 +18,68 @@ Most "PDF editors" hand you a form and ask which words to find. Doclium opens th
 - **Click an image** to copy it, save it, OCR it, or cover it
 - Every edit is recorded with an **undo** beside it
 
-▶︎ Try it: **[doclium.com/edit-pdf](https://doclium.com/edit-pdf)**
+▶︎ **[PDF Editor](https://doclium.com/edit-pdf)** · **[Edit PDF text](https://doclium.com/edit-pdf-text)** · **[Highlight](https://doclium.com/highlight-pdf)** · **[Sign](https://doclium.com/sign-pdf)**
+
+### 📊 Bank statements and tables, straight into Excel
+
+The tables inside a PDF are just glyphs in position — nothing marks them as a table. Doclium finds the structure and rebuilds it.
+
+- **Bank statements** — transaction rows, dates and balances into `.xlsx`, with balance continuity checked
+- **Photos and screenshots of tables** — OCR plus table detection, so a picture becomes editable cells
+- **PDF to Excel** — one worksheet per table found on the page
+
+▶︎ **[Bank Statement to Excel](https://doclium.com/bank-statement-to-excel)** · **[Image to Excel](https://doclium.com/image-table-to-excel)** · **[PNG to Excel](https://doclium.com/png-to-excel)** · **[PDF to Excel](https://doclium.com/pdf-to-excel)**
+
+### 🧾 Invoices, receipts and data as rows you can use
+
+Extraction that shows its work: every value comes back with the page it was read from, and totals are reconciled rather than guessed.
+
+- **Invoices** — line items, subtotals, tax and amount due, with a review-required sheet when something does not add up
+- **Receipts** — totals, tax and itemised rows into CSV or Excel
+- **Any PDF** — totals, dates and references pulled into a table
+
+▶︎ **[Invoice Extraction](https://doclium.com/extract-invoice-data)** · **[Invoice line items](https://doclium.com/extract-invoice-line-items)** · **[Receipt Extraction](https://doclium.com/receipt-to-csv)** · **[Extract Data from PDF](https://doclium.com/extract-data-from-pdf)**
+
+### 💬 Ask your document — and check the answer
+
+Every answer carries the page it came from, so you can verify it instead of trusting it.
+
+- **Chat with PDF** — ask anything, follow the citation back to the page
+- **Summaries** — executive summary or bullets, from any document
+- **Translate** — side by side with the original, page references kept
+- **Compare** — exactly what changed between two versions
+
+▶︎ **[Chat with PDF](https://doclium.com/chat-with-pdf)** · **[AI PDF Summarizer](https://doclium.com/ai-pdf-summarizer)** · **[Translate PDF](https://doclium.com/translate-pdf)** · **[Compare documents](https://doclium.com/compare-pdf)**
+
+### 🛡️ Catch what is wrong before you send it
+
+A pre-send audit built for the moment before you sign, file, pay or publish.
+
+- Unfilled placeholders, mismatched totals, missing signature blocks
+- Exposed card numbers and leftover metadata
+- Every finding linked to the page it is on
+
+▶︎ **[Check a document](https://doclium.com/check-document)** · **[Before sending](https://doclium.com/check-document-before-sending)** · **[Before signing a contract](https://doclium.com/check-contract-before-signing)** · **[Sensitive info check](https://doclium.com/check-pdf-for-sensitive-information)**
+
+### 🔒 Redaction that actually deletes
+
+A black rectangle over text is not redaction — the words are still in the file. Doclium removes the glyphs.
+
+- Text is **deleted**, not covered over
+- Metadata stripped before sharing
+- Flatten a form so it cannot be edited further
+
+▶︎ **[Redact a PDF](https://doclium.com/redact-pdf)** · **[Remove metadata](https://doclium.com/remove-pdf-metadata)** · **[Password protect](https://doclium.com/protect-pdf)** · **[Flatten](https://doclium.com/flatten-pdf)**
+
+### 🗜️ Compress to an exact size
+
+Upload limits are usually a number, so the target is the number — not a vague "smaller".
+
+- Hit **50KB, 100KB, 200KB, 300KB, 500KB or 1MB**
+- See exactly how much was saved
+- OCR a scan so it becomes searchable, or repair a file that will not open
+
+▶︎ **[Compress PDF](https://doclium.com/compress-pdf)** · **[To 100KB](https://doclium.com/compress-pdf-to-100kb)** · **[To 500KB](https://doclium.com/compress-pdf-to-500kb)** · **[OCR a scan](https://doclium.com/ocr-pdf)** · **[Repair](https://doclium.com/repair-pdf)**
 
 ---
 
@@ -26,6 +89,7 @@ Most "PDF editors" hand you a form and ask which words to find. Doclium opens th
 |---|---|
 | 🏠 Website | https://doclium.com |
 | ✏️ PDF Editor | https://doclium.com/edit-pdf |
+| 📊 Bank Statement to Excel | https://doclium.com/bank-statement-to-excel |
 | 💬 Chat with PDF | https://doclium.com/chat-with-pdf |
 | 🧑‍💻 For developers | https://doclium.com/developers |
 | 📦 API examples | https://github.com/Doclium/doclium-api-starter |
